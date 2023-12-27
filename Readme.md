@@ -7,3 +7,5 @@
 - Bayesian-Optimierung
 - Grid-Suche
 - Zufällige Suche
+
+Quelle: https://aws.amazon.com/de/what-is/hyperparameter-tuning/
